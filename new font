@@ -1,0 +1,29 @@
+h1{
+  background: white;
+  width: 100%;
+  min-height: 150px;
+  line-height: 150px;
+  color: black;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+  font-family: 'Comic Neue', cursive;
+}
+h3{background: white;
+  width: 100%;
+  min-height: 150px;
+  line-height: 150px;
+  color: black;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+  font-family: 'Comic Neue', cursive;}
+h4{background: white;
+  width: 100%;
+  min-height: 150px;
+  line-height: 150px;
+  color: black;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
