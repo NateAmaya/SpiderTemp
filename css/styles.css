@@ -41,3 +41,60 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+body{backround:url(https://image.tmdb.org/t/p/original/rOtk6CzFQagTnFfv3xPEhVqrN5S.jpg)}
+h1{
+  background: white;
+  width: 100%;
+  min-height: 150px;
+  line-height: 150px;
+  color: black;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+  font-family: 'Comic Neue', cursive;
+}
+h3{background: white;
+  width: 100%;
+  min-height: 150px;
+  line-height: 150px;
+  color: black;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+  font-family: 'Comic Neue', cursive;}
+h5{background: white;
+  width: 100%;
+  min-height: 150px;
+  line-height: 150px;
+  color: black;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+  font-family: 'Comic Neue', sans-serif;}
+h6{background: white;
+  width: 100%;
+  min-height: 10px;
+  line-height: 150px;
+  color: blue;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+  font-family: 'Comic Neue', sans-serif;}
+p{background: white;
+  width: 100%;
+  min-height:2px;
+  line-height: 100px;
+  color: red;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-align: left;
+  font-family: 'Comic Neue', sans-serif;}
+p2{background: white;
+  width: 100%;
+  min-height:2px;
+  line-height: 100px;
+  color: red;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-align: left;
+  font-family: 'Comic Neue', sans-serif;}
